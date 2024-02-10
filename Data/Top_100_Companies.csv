@@ -1,0 +1,101 @@
+,Ticker,Description,Sector,Market Capitalization
+1,AAPL,Apple Inc.,Electronic Technology,2728017215293
+2,MSFT,Microsoft Corporation,Technology Services,2351371643107
+3,GOOG,Alphabet Inc.,Technology Services,1611856497958
+4,GOOGL,Alphabet Inc.,Technology Services,1610343852181
+5,AMZN,"Amazon.com, Inc.",Retail Trade,1366884251763
+6,NVDA,NVIDIA Corporation,Electronic Technology,1069485293976
+7,BRK.B,Berkshire Hathaway Inc. New,Finance,768891898463
+8,META,"Meta Platforms, Inc.",Technology Services,728967239293
+9,TSLA,"Tesla, Inc.",Consumer Durables,683964053782
+10,LLY,Eli Lilly and Company,Health Technology,518723331656
+11,V,Visa Inc.,Commercial Services,485525515662
+12,UNH,UnitedHealth Group Incorporated,Health Services,461707513407
+13,JNJ,Johnson & Johnson,Health Technology,448296231871
+14,XOM,Exxon Mobil Corporation,Energy Minerals,440511349736
+15,JPM,JP Morgan Chase & Co.,Finance,432919527223
+16,WMT,Walmart Inc.,Retail Trade,425279432050
+17,MA,Mastercard Incorporated,Commercial Services,369364486503
+18,PG,Procter & Gamble Company (The),Consumer Non-Durables,359583481922
+19,AVGO,Broadcom Inc.,Electronic Technology,340812095959
+20,HD,"Home Depot, Inc. (The)",Retail Trade,329129972182
+21,ORCL,Oracle Corporation,Technology Services,316102599449
+22,CVX,Chevron Corporation,Energy Minerals,306932521814
+23,MRK,"Merck & Company, Inc.",Health Technology,277097314775
+24,ABBV,AbbVie Inc.,Health Technology,265004108705
+25,KO,Coca-Cola Company (The),Consumer Non-Durables,263568843499
+26,PEP,"PepsiCo, Inc.",Consumer Non-Durables,245279121127
+27,COST,Costco Wholesale Corporation,Retail Trade,241489319696
+28,ADBE,Adobe Inc.,Technology Services,231605653875
+29,BAC,Bank of America Corporation,Finance,231318896391
+30,CSCO,"Cisco Systems, Inc.",Technology Services,224291209687
+31,PFE,"Pfizer, Inc.",Health Technology,206980864752
+32,TMO,Thermo Fisher Scientific Inc,Health Technology,205471945947
+33,MCD,McDonald’s Corporation,Consumer Services,205321797459
+34,ACN,Accenture plc,Technology Services,201246616516
+35,CRM,"Salesforce, Inc.",Technology Services,199504416416
+36,CMCSA,Comcast Corporation,Consumer Services,188766086139
+37,DHR,Danaher Corporation,Health Technology,185629109809
+38,LIN,Linde plc,Process Industries,183028485644
+39,ABT,Abbott Laboratories,Health Technology,179973982046
+40,NFLX,"Netflix, Inc.",Technology Services,179266158431
+41,AMD,"Advanced Micro Devices, Inc.",Electronic Technology,170372551712
+42,NKE,"Nike, Inc.",Consumer Non-Durables,160367096321
+43,TMUS,"T-Mobile US, Inc.",Communications,160162887737
+44,DIS,Walt Disney Company (The),Consumer Services,157075139070
+45,WFC,Wells Fargo & Company,Finance,155498290602
+46,TXN,Texas Instruments Incorporated,Electronic Technology,151167305708
+47,PM,Philip Morris International Inc,Consumer Non-Durables,146479296866
+48,UPS,"United Parcel Service, Inc.",Transportation,146457435764
+49,MS,Morgan Stanley,Finance,140659902525
+50,COP,ConocoPhillips,Energy Minerals,140453676582
+51,AMGN,Amgen Inc.,Health Technology,140047831256
+52,CAT,"Caterpillar, Inc.",Producer Manufacturing,139677186754
+53,VZ,Verizon Communications Inc.,Communications,139490054291
+54,UNP,Union Pacific Corporation,Transportation,137286101364
+55,NEE,"NextEra Energy, Inc.",Utilities,137268524235
+56,INTC,Intel Corporation,Electronic Technology,137157007708
+57,BA,Boeing Company (The),Electronic Technology,136716081029
+58,INTU,Intuit Inc.,Technology Services,136097826356
+59,BMY,Bristol-Myers Squibb Company,Health Technology,129649721909
+60,IBM,International Business Machines Corporation,Technology Services,128825393714
+61,LOW,"Lowe’s Companies, Inc.",Retail Trade,128534892552
+62,RTX,RTX Corporation,Electronic Technology,124883190494
+63,HON,Honeywell International Inc.,Electronic Technology,123881919976
+64,QCOM,QUALCOMM Incorporated,Electronic Technology,122871602043
+65,GE,General Electric Company,Producer Manufacturing,121669808694
+66,SPGI,S&P Global Inc.,Commercial Services,121552406207
+67,AMAT,"Applied Materials, Inc.",Producer Manufacturing,119798366106
+68,AXP,American Express Company,Finance,118002804852
+69,DE,Deere & Company,Producer Manufacturing,116403156028
+70,PLD,"Prologis, Inc.",Finance,113828796051
+71,LMT,Lockheed Martin Corporation,Electronic Technology,113339268033
+72,SBUX,Starbucks Corporation,Consumer Services,111367244022
+73,NOW,"ServiceNow, Inc.",Technology Services,110628454634
+74,BKNG,Booking Holdings Inc. Common Stock,Consumer Services,109161968068
+75,ELV,"Elevance Health, Inc.",Health Services,109053095545
+76,MDT,Medtronic plc.,Health Technology,108454644596
+77,SCHW,Charles Schwab Corporation (The),Finance,108392664416
+78,GS,"Goldman Sachs Group, Inc. (The)",Finance,107120020932
+79,SYK,Stryker Corporation,Health Technology,105544181735
+80,ADP,"Automatic Data Processing, Inc.",Technology Services,103429305077
+81,TJX,"TJX Companies, Inc. (The)",Retail Trade,102879833860
+82,ISRG,"Intuitive Surgical, Inc.",Health Technology,100469864749
+83,T,AT&T Inc.,Communications,100443451641
+84,BLK,"BlackRock, Inc.",Finance,100070096351
+85,MDLZ,"Mondelez International, Inc.",Consumer Non-Durables,96766517287
+86,GILD,"Gilead Sciences, Inc.",Health Technology,94547572998
+87,MMC,"Marsh & McLennan Companies, Inc.",Finance,93278220336
+88,VRTX,Vertex Pharmaceuticals Incorporated,Health Technology,88996253919
+89,ADI,"Analog Devices, Inc.",Electronic Technology,88903581159
+90,REGN,"Regeneron Pharmaceuticals, Inc.",Health Technology,88178356962
+91,LRCX,Lam Research Corporation,Producer Manufacturing,86522191352
+92,CVS,CVS Health Corporation,Retail Trade,85810704307
+93,ETN,"Eaton Corporation, PLC",Producer Manufacturing,85645351950
+94,ZTS,Zoetis Inc.,Health Technology,83579740494
+95,SLB,Schlumberger N.V.,Industrial Services,82471424751
+96,AMT,American Tower Corporation (REIT),Finance,82187878166
+97,CB,Chubb Limited,Finance,82105914715
+98,CI,The Cigna Group,Health Services,81693476157
+99,C,"Citigroup, Inc.",Finance,81360929490
+100,BDX,"Becton, Dickinson and Company",Health Technology,79399811792
