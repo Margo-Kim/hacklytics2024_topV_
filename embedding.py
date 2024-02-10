@@ -33,13 +33,23 @@ def distance_from_embeddings(query_embedding, embeddings, distance_metric="cosin
     return distances
 
 
-
 # def indices_of_nearest_neighbors_from_distances(distances) -> np.ndarray:
 #     """Return a list of indices of nearest neighbors from a list of distances."""
 #     return np.argsort(distances)
 
 def indicies_of_nearest_neighbors_from_distances(distances):
     return np.argsort(distances)
+
+# define a function that match the index of the nearest neighbor with the original string
+# input: target - string, allString - list of strings
+# output: list of strings
+def nearest_neighbors(distance, allString):
+    nearNeighbor = []
+    # select the smallest 5 distances
+    for i in distance:
+        if i < 5:
+            nearNeighbor.append(allString[i])
+    return nearNeighbor
 
 
 
@@ -50,20 +60,16 @@ def main(target, allString):
 
     distances = distance_from_embeddings(query_embedding, embeddings, distance_metric="cosine")
 
-    return indicies_of_nearest_neighbors_from_distances(distances)
+    index =  indicies_of_nearest_neighbors_from_distances(distances)
+
+    return [target] + nearest_neighbors(index, allString)
 
 
 #################### TESTING ####################
-allString = ["testing", "another", "maybe", "this", "a lot"]
+allString = ["testing", "another", "maybe", "this", "a lot", "much", "very", "so", "many", "more"]
 target = "much"
 
-main(target, allString)
+print(main(target, allString))
 
-
-# response = client.embeddings.create(
-#     input="Your text string goes here",
-#     model="text-embedding-3-small"
-# )
-# 
-# print(response.data[0].embedding)
+# [5 4 9 6 8 3 2 1 7 0]
 
