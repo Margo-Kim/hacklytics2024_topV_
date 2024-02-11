@@ -4,9 +4,12 @@
 from openai import OpenAI
 import numpy as np
 from scipy import spatial
+import numpy as np
+from scipy import spatial
 
 # setting up client
-client = OpenAI(api_key = "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")
+userAPI = input("Enter your API key: ")
+client = OpenAI(api_key = userAPI)
 
 # parent function of getting embedding from strings
 # input: string - string
@@ -14,6 +17,7 @@ client = OpenAI(api_key = "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")
 def embedding_from_string(string: str, model="text-embedding-3-small"):
     response = client.embeddings.create(input=string, model=model)
     return response.data[0].embedding
+
 
 # def distances_from_embeddings(
 #     query_embedding: List[float],
@@ -51,26 +55,87 @@ def nearest_neighbors(distance, allString):
         nearNeighbor.append(allString[i])
     return nearNeighbor
 
+# target is the target string
+# allString is the list of all the string embeddings lists
+# all embeddings is the list of all the embeddings
+def main(target, allString, allEmbeddings):
 
+    targetEmbedding = embeddingDict[target]
 
-def main(target, allString):
-
-    embeddings = [embedding_from_string(string, model="text-embedding-3-small") for string in allString]
-    query_embedding = embedding_from_string(target, model="text-embedding-3-small")
-
-    distances = distance_from_embeddings(query_embedding, embeddings, distance_metric="cosine")
+    distances = distance_from_embeddings(targetEmbedding, allEmbeddings, distance_metric="cosine")
 
     index =  indicies_of_nearest_neighbors_from_distances(distances)
 
-
-    return [target] + nearest_neighbors(index, allString)
-
-
-#################### TESTING ####################
-allString = ["testing", "another", "maybe", "this", "a lot", "much", "very", "so", "many", "more"]
-target = "love"
-
-print(main(target, allString))
+    return nearest_neighbors(index, allString)
 
 
+#################### Embedding ####################
 
+#  outputDict = {}
+#  
+#  embeddingFile = open("embedding.txt", "w", encoding='utf-8')
+#  
+#  company = {}
+#  companyEmbedding = {}
+#  
+#  testing = {"aapl": "testing with appl", "msft": "testing with msft", "goog": "testing with goog"}
+#  testingEmbedding = {}
+#  
+#  inputFile = open("output.txt", "r")
+#  allString = inputFile.readlines()
+#  for i in allString:
+#      company[i.split("\t")[0]] = i.split("\t")[1]
+#  
+#  for key in testing:
+#      testingEmbedding[key] = embedding_from_string(company[key], model="text-embedding-3-small")
+#      embeddingFile.write(key + "\t" + str(testingEmbedding[key]) + "\n")
+#  
+#  for key in testingEmbedding:
+#      outputDict[key] = main(testingEmbedding[key], list(testingEmbedding.values()))
+#  
+#  
+#  print(outputDict)
+
+##################### TESTING ####################
+
+# simulating input 
+# input format - dictionary of company ticker and company description
+# testing = {"aapl": "testing with appl", "msft": "testing with msft", "goog": "testing with goog"}
+
+# loading the input file
+inputFile = open("output.txt", "r")
+
+# get the input to be a dictionary
+testing = {}
+
+for i in inputFile.readlines():
+    testing[i.split("\t")[0]] = i.split("\t")[1]
+
+
+# loop through the dictionary to get a dictionary of embeddings
+embeddingDict = {}
+
+for key in testing:
+    embeddingDict[key] = embedding_from_string(testing[key], model="text-embedding-3-small")
+
+# get the list of all the embeddings
+allTickers = list(embeddingDict.keys())
+allEmbeddings = list(embeddingDict.values())
+
+# loop through the dictionary to get the nearest neighbor
+outputDict = {}
+for key in embeddingDict:
+    outputDict[key] = main(key, allTickers, allEmbeddings)
+
+# list of all the values
+allNightbors = list(outputDict.values())
+finalOutput = {}
+for x in range(len(allNightbors)):
+    current = allNightbors[x]
+    finalOutput[current[0]] = current[1:]
+
+
+# writing to files
+finalFile = open("finalOutput.txt", "w", encoding='utf-8')
+for key in finalOutput:
+    finalFile.write(key + "\t" + str(finalOutput[key]) + "\n")
