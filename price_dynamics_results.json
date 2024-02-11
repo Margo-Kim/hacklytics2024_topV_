@@ -1,0 +1,651 @@
+{
+    "T": {
+        "Quarterly Data": {
+            "As of Date: 2/10/2024Current": {
+                "Market Cap (intraday)": "120.41B",
+                "Enterprise Value": "268.58B",
+                "Trailing P/E": "8.55",
+                "Forward P/E": "7.52",
+                "PEG Ratio (5 yr expected)": "1.30",
+                "Price/Sales (ttm)": "1.00",
+                "Price/Book (mrq)": "1.17",
+                "Enterprise Value/Revenue": "2.19",
+                "Enterprise Value/EBITDA": "5.93"
+            },
+            "9/30/2023": {
+                "Market Cap (intraday)": "107.38B",
+                "Enterprise Value": "259.44B",
+                "Trailing P/E": "N/A",
+                "Forward P/E": "6.03",
+                "PEG Ratio (5 yr expected)": "9.73",
+                "Price/Sales (ttm)": "0.92",
+                "Price/Book (mrq)": "1.05",
+                "Enterprise Value/Revenue": "8.55",
+                "Enterprise Value/EBITDA": "22.86"
+            },
+            "6/30/2023": {
+                "Market Cap (intraday)": "114.03B",
+                "Enterprise Value": "267.11B",
+                "Trailing P/E": "N/A",
+                "Forward P/E": "6.62",
+                "PEG Ratio (5 yr expected)": "3.23",
+                "Price/Sales (ttm)": "1.00",
+                "Price/Book (mrq)": "1.15",
+                "Enterprise Value/Revenue": "8.93",
+                "Enterprise Value/EBITDA": "21.46"
+            },
+            "3/31/2023": {
+                "Market Cap (intraday)": "137.62B",
+                "Enterprise Value": "288.60B",
+                "Trailing P/E": "N/A",
+                "Forward P/E": "8.01",
+                "PEG Ratio (5 yr expected)": "1.42",
+                "Price/Sales (ttm)": "1.21",
+                "Price/Book (mrq)": "1.41",
+                "Enterprise Value/Revenue": "9.58",
+                "Enterprise Value/EBITDA": "23.84"
+            },
+            "12/31/2022": {
+                "Market Cap (intraday)": "131.21B",
+                "Enterprise Value": "281.28B",
+                "Trailing P/E": "7.61",
+                "Forward P/E": "7.04",
+                "PEG Ratio (5 yr expected)": "4.45",
+                "Price/Sales (ttm)": "0.86",
+                "Price/Book (mrq)": "1.07",
+                "Enterprise Value/Revenue": "8.97",
+                "Enterprise Value/EBITDA": "-16.50"
+            }
+        },
+        "Other Data": {
+            "Beta (5Y Monthly)": "0.71",
+            "52-Week Change 3": "-12.56%",
+            "S&P500 52-Week Change 3": "21.50%",
+            "52 Week High 3": "19.99",
+            "52 Week Low 3": "13.43",
+            "50-Day Moving Average 3": "16.90",
+            "200-Day Moving Average 3": "15.73",
+            "Profit Margin": "11.76%",
+            "Operating Margin (ttm)": "18.30%",
+            "Return on Assets (ttm)": "3.56%",
+            "Return on Equity (ttm)": "13.83%"
+        }
+    },
+    "ABBV": {
+        "Quarterly Data": {
+            "Current": {
+                "Market Cap": "307.34B",
+                "Enterprise Value": "354.80B",
+                "Trailing P/E": "64.00",
+                "Forward P/E": "15.41",
+                "PEG Ratio (5yr expected)": "1.62",
+                "Price/Sales": "5.68",
+                "Price/Book": "25.41",
+                "Enterprise Value/Revenue": "6.53",
+                "Enterprise Value/EBITDA": "26.21"
+            },
+            "9/30/2023": {
+                "Market Cap": "263.10B",
+                "Enterprise Value": "315.35B",
+                "Trailing P/E": "30.67",
+                "Forward P/E": "13.61",
+                "PEG Ratio (5yr expected)": "5.92",
+                "Price/Sales": "4.73",
+                "Price/Book": "20.45",
+                "Enterprise Value/Revenue": "22.64",
+                "Enterprise Value/EBITDA": "66.49"
+            },
+            "6/30/2023": {
+                "Market Cap": "237.77B",
+                "Enterprise Value": "293.14B",
+                "Trailing P/E": "31.70",
+                "Forward P/E": "12.25",
+                "PEG Ratio (5yr expected)": "10.21",
+                "Price/Sales": "4.22",
+                "Price/Book": "17.91",
+                "Enterprise Value/Revenue": "21.14",
+                "Enterprise Value/EBITDA": "54.07"
+            },
+            "3/31/2023": {
+                "Market Cap": "281.12B",
+                "Enterprise Value": "335.17B",
+                "Trailing P/E": "24.04",
+                "Forward P/E": "14.49",
+                "PEG Ratio (5yr expected)": "--",
+                "Price/Sales": "4.88",
+                "Price/Book": "16.29",
+                "Enterprise Value/Revenue": "27.42",
+                "Enterprise Value/EBITDA": "106.23"
+            },
+            "12/31/2022": {
+                "Market Cap": "285.80B",
+                "Enterprise Value": "343.53B",
+                "Trailing P/E": "21.55",
+                "Forward P/E": "14.03",
+                "PEG Ratio (5yr expected)": "--",
+                "Price/Sales": "4.97",
+                "Price/Book": "17.88",
+                "Enterprise Value/Revenue": "22.72",
+                "Enterprise Value/EBITDA": "60.40"
+            }
+        },
+        "Other Data": {
+            "Revenue  (ttm)": "54.32B",
+            "Revenue Per Share  (ttm)": "30.64",
+            "Quarterly Revenue Growth  (yoy)": "-5.40%",
+            "Gross Profit  (ttm)": "--",
+            "EBITDA": "26.25B",
+            "Net Income Avi to Common  (ttm)": "4.86B",
+            "Diluted EPS  (ttm)": "2.72",
+            "Quarterly Earnings Growth  (yoy)": "-66.80%",
+            "Total Cash  (mrq)": "13.29B",
+            "Total Cash Per Share  (mrq)": "7.53",
+            "Total Debt  (mrq)": "61.18B",
+            "Total Debt/Equity  (mrq)": "504.43%",
+            "Current Ratio  (mrq)": "--",
+            "Book Value Per Share  (mrq)": "6.85"
+        }
+    },
+    "ABT": {
+        "Quarterly Data": {
+            "Current": {
+                "Market Cap": "194.11B",
+                "Enterprise Value": "202.59B",
+                "Trailing P/E": "34.30",
+                "Forward P/E": "24.21",
+                "PEG Ratio (5yr expected)": "26.92",
+                "Price/Sales": "4.88",
+                "Price/Book": "5.18",
+                "Enterprise Value/Revenue": "5.05",
+                "Enterprise Value/EBITDA": "22.81"
+            },
+            "9/30/2023": {
+                "Market Cap": "168.07B",
+                "Enterprise Value": "176.76B",
+                "Trailing P/E": "33.05",
+                "Forward P/E": "20.96",
+                "PEG Ratio (5yr expected)": "36.18",
+                "Price/Sales": "4.22",
+                "Price/Book": "4.52",
+                "Enterprise Value/Revenue": "17.43",
+                "Enterprise Value/EBITDA": "66.43"
+            },
+            "6/30/2023": {
+                "Market Cap": "189.19B",
+                "Enterprise Value": "196.56B",
+                "Trailing P/E": "33.14",
+                "Forward P/E": "24.75",
+                "PEG Ratio (5yr expected)": "22.52",
+                "Price/Sales": "4.62",
+                "Price/Book": "5.11",
+                "Enterprise Value/Revenue": "19.70",
+                "Enterprise Value/EBITDA": "75.74"
+            },
+            "3/31/2023": {
+                "Market Cap": "176.09B",
+                "Enterprise Value": "183.63B",
+                "Trailing P/E": "25.90",
+                "Forward P/E": "22.94",
+                "PEG Ratio (5yr expected)": "40.24",
+                "Price/Sales": "4.09",
+                "Price/Book": "4.80",
+                "Enterprise Value/Revenue": "18.84",
+                "Enterprise Value/EBITDA": "72.84"
+            },
+            "12/31/2022": {
+                "Market Cap": "191.43B",
+                "Enterprise Value": "197.93B",
+                "Trailing P/E": "24.78",
+                "Forward P/E": "24.81",
+                "PEG Ratio (5yr expected)": "18.52",
+                "Price/Sales": "4.32",
+                "Price/Book": "5.35",
+                "Enterprise Value/Revenue": "19.61",
+                "Enterprise Value/EBITDA": "86.78"
+            }
+        },
+        "Other Data": {
+            "Revenue  (ttm)": "40.11B",
+            "Revenue Per Share  (ttm)": "22.93",
+            "Quarterly Revenue Growth  (yoy)": "1.50%",
+            "Gross Profit  (ttm)": "--",
+            "EBITDA": "9.93B",
+            "Net Income Avi to Common  (ttm)": "5.72B",
+            "Diluted EPS  (ttm)": "3.26",
+            "Quarterly Earnings Growth  (yoy)": "54.30%",
+            "Total Cash  (mrq)": "7.05B",
+            "Total Cash Per Share  (mrq)": "4.06",
+            "Total Debt  (mrq)": "15.7B",
+            "Total Debt/Equity  (mrq)": "41.65%",
+            "Current Ratio  (mrq)": "--",
+            "Book Value Per Share  (mrq)": "21.59"
+        }
+    },
+    "ACN": {
+        "Quarterly Data": {
+            "Current": {
+                "Market Cap": "233.03B",
+                "Enterprise Value": "228.97B",
+                "Trailing P/E": "34.45",
+                "Forward P/E": "30.86",
+                "PEG Ratio (5yr expected)": "2.51",
+                "Price/Sales": "3.67",
+                "Price/Book": "8.74",
+                "Enterprise Value/Revenue": "3.55",
+                "Enterprise Value/EBITDA": "21.54"
+            },
+            "11/30/2023": {
+                "Market Cap": "208.88B",
+                "Enterprise Value": "202.98B",
+                "Trailing P/E": "30.93",
+                "Forward P/E": "27.25",
+                "PEG Ratio (5yr expected)": "--",
+                "Price/Sales": "3.32",
+                "Price/Book": "8.13",
+                "Enterprise Value/Revenue": "12.51",
+                "Enterprise Value/EBITDA": "68.24"
+            },
+            "8/31/2023": {
+                "Market Cap": "203.41B",
+                "Enterprise Value": "197.97B",
+                "Trailing P/E": "28.86",
+                "Forward P/E": "25.97",
+                "PEG Ratio (5yr expected)": "3.01",
+                "Price/Sales": "3.25",
+                "Price/Book": "8.03",
+                "Enterprise Value/Revenue": "12.38",
+                "Enterprise Value/EBITDA": "84.16"
+            },
+            "5/31/2023": {
+                "Market Cap": "192.97B",
+                "Enterprise Value": "189.94B",
+                "Trailing P/E": "28.17",
+                "Forward P/E": "24.63",
+                "PEG Ratio (5yr expected)": "3.00",
+                "Price/Sales": "3.10",
+                "Price/Book": "8.12",
+                "Enterprise Value/Revenue": "11.47",
+                "Enterprise Value/EBITDA": "63.29"
+            },
+            "2/28/2023": {
+                "Market Cap": "167.63B",
+                "Enterprise Value": "165.03B",
+                "Trailing P/E": "24.12",
+                "Forward P/E": "23.15",
+                "PEG Ratio (5yr expected)": "2.76",
+                "Price/Sales": "2.73",
+                "Price/Book": "7.30",
+                "Enterprise Value/Revenue": "10.44",
+                "Enterprise Value/EBITDA": "71.70"
+            },
+            "11/30/2022": {
+                "Market Cap": "189.42B",
+                "Enterprise Value": "184.85B",
+                "Trailing P/E": "28.10",
+                "Forward P/E": "26.45",
+                "PEG Ratio (5yr expected)": "3.07",
+                "Price/Sales": "3.14",
+                "Price/Book": "8.57",
+                "Enterprise Value/Revenue": "11.74",
+                "Enterprise Value/EBITDA": "63.04"
+            }
+        },
+        "Other Data": {
+            "Revenue  (ttm)": "64.59B",
+            "Revenue Per Share  (ttm)": "102.51",
+            "Quarterly Revenue Growth  (yoy)": "3.00%",
+            "Gross Profit  (ttm)": "--",
+            "EBITDA": "11.3B",
+            "Net Income Avi to Common  (ttm)": "6.88B",
+            "Diluted EPS  (ttm)": "10.78",
+            "Quarterly Earnings Growth  (yoy)": "0.40%",
+            "Total Cash  (mrq)": "7.15B",
+            "Total Cash Per Share  (mrq)": "11.4",
+            "Total Debt  (mrq)": "3.08B",
+            "Total Debt/Equity  (mrq)": "11.21%",
+            "Current Ratio  (mrq)": "1.33",
+            "Book Value Per Share  (mrq)": "42.55"
+        }
+    },
+    "ADBE": {
+        "Quarterly Data": {
+            "Current": {
+                "Market Cap": "283.50B",
+                "Enterprise Value": "279.74B",
+                "Trailing P/E": "53.06",
+                "Forward P/E": "34.97",
+                "PEG Ratio (5yr expected)": "2.33",
+                "Price/Sales": "14.83",
+                "Price/Book": "17.16",
+                "Enterprise Value/Revenue": "14.41",
+                "Enterprise Value/EBITDA": "35.94"
+            },
+            "11/30/2023": {
+                "Market Cap": "278.19B",
+                "Enterprise Value": "274.77B",
+                "Trailing P/E": "54.95",
+                "Forward P/E": "34.01",
+                "PEG Ratio (5yr expected)": "2.27",
+                "Price/Sales": "14.90",
+                "Price/Book": "17.63",
+                "Enterprise Value/Revenue": "54.43",
+                "Enterprise Value/EBITDA": "133.51"
+            },
+            "8/31/2023": {
+                "Market Cap": "254.95B",
+                "Enterprise Value": "252.46B",
+                "Trailing P/E": "53.32",
+                "Forward P/E": "31.65",
+                "PEG Ratio (5yr expected)": "2.11",
+                "Price/Sales": "14.07",
+                "Price/Book": "17.18",
+                "Enterprise Value/Revenue": "51.63",
+                "Enterprise Value/EBITDA": "126.99"
+            },
+            "5/31/2023": {
+                "Market Cap": "191.64B",
+                "Enterprise Value": "190.11B",
+                "Trailing P/E": "41.16",
+                "Forward P/E": "26.95",
+                "PEG Ratio (5yr expected)": "1.80",
+                "Price/Sales": "10.85",
+                "Price/Book": "13.49",
+                "Enterprise Value/Revenue": "39.48",
+                "Enterprise Value/EBITDA": "100.27"
+            },
+            "2/28/2023": {
+                "Market Cap": "148.56B",
+                "Enterprise Value": "147.09B",
+                "Trailing P/E": "32.07",
+                "Forward P/E": "21.10",
+                "PEG Ratio (5yr expected)": "1.41",
+                "Price/Sales": "8.67",
+                "Price/Book": "10.57",
+                "Enterprise Value/Revenue": "31.60",
+                "Enterprise Value/EBITDA": "79.85"
+            },
+            "11/30/2022": {
+                "Market Cap": "160.36B",
+                "Enterprise Value": "159.23B",
+                "Trailing P/E": "34.02",
+                "Forward P/E": "22.57",
+                "PEG Ratio (5yr expected)": "1.71",
+                "Price/Sales": "9.53",
+                "Price/Book": "11.16",
+                "Enterprise Value/Revenue": "35.19",
+                "Enterprise Value/EBITDA": "90.47"
+            }
+        },
+        "Other Data": {
+            "Revenue  (ttm)": "19.41B",
+            "Revenue Per Share  (ttm)": "42.46",
+            "Quarterly Revenue Growth  (yoy)": "11.60%",
+            "Gross Profit  (ttm)": "--",
+            "EBITDA": "7.27B",
+            "Net Income Avi to Common  (ttm)": "5.43B",
+            "Diluted EPS  (ttm)": "11.79",
+            "Quarterly Earnings Growth  (yoy)": "26.10%",
+            "Total Cash  (mrq)": "7.84B",
+            "Total Cash Per Share  (mrq)": "17.35",
+            "Total Debt  (mrq)": "4.08B",
+            "Total Debt/Equity  (mrq)": "24.70%",
+            "Current Ratio  (mrq)": "1.34",
+            "Book Value Per Share  (mrq)": "36.30"
+        }
+    },
+    "AMD": {
+        "Quarterly Data": {
+            "As of Date: 2/10/2024Current": {
+                "Market Cap (intraday)": "278.69B",
+                "Enterprise Value": "275.92B",
+                "Trailing P/E": "325.43",
+                "Forward P/E": "51.55",
+                "PEG Ratio (5 yr expected)": "0.70",
+                "Price/Sales (ttm)": "12.36",
+                "Price/Book (mrq)": "4.99",
+                "Enterprise Value/Revenue": "12.17",
+                "Enterprise Value/EBITDA": "66.50"
+            },
+            "12/31/2023": {
+                "Market Cap (intraday)": "238.14B",
+                "Enterprise Value": "235.22B",
+                "Trailing P/E": "1.34k",
+                "Forward P/E": "39.37",
+                "PEG Ratio (5 yr expected)": "2.06",
+                "Price/Sales (ttm)": "10.82",
+                "Price/Book (mrq)": "4.33",
+                "Enterprise Value/Revenue": "38.14",
+                "Enterprise Value/EBITDA": "193.59"
+            },
+            "9/30/2023": {
+                "Market Cap (intraday)": "166.12B",
+                "Enterprise Value": "162.70B",
+                "Trailing P/E": "N/A",
+                "Forward P/E": "24.63",
+                "PEG Ratio (5 yr expected)": "1.18",
+                "Price/Sales (ttm)": "7.60",
+                "Price/Book (mrq)": "3.01",
+                "Enterprise Value/Revenue": "28.05",
+                "Enterprise Value/EBITDA": "143.85"
+            },
+            "6/30/2023": {
+                "Market Cap (intraday)": "183.44B",
+                "Enterprise Value": "180.35B",
+                "Trailing P/E": "599.53",
+                "Forward P/E": "40.16",
+                "PEG Ratio (5 yr expected)": "1.85",
+                "Price/Sales (ttm)": "8.01",
+                "Price/Book (mrq)": "3.35",
+                "Enterprise Value/Revenue": "33.65",
+                "Enterprise Value/EBITDA": "200.61"
+            },
+            "3/31/2023": {
+                "Market Cap (intraday)": "157.74B",
+                "Enterprise Value": "154.75B",
+                "Trailing P/E": "116.68",
+                "Forward P/E": "32.68",
+                "PEG Ratio (5 yr expected)": "1.87",
+                "Price/Sales (ttm)": "6.52",
+                "Price/Book (mrq)": "2.88",
+                "Enterprise Value/Revenue": "28.91",
+                "Enterprise Value/EBITDA": "171.18"
+            },
+            "12/31/2022": {
+                "Market Cap (intraday)": "104.43B",
+                "Enterprise Value": "101.73B",
+                "Trailing P/E": "39.74",
+                "Forward P/E": "16.92",
+                "PEG Ratio (5 yr expected)": "0.85",
+                "Price/Sales (ttm)": "4.18",
+                "Price/Book (mrq)": "1.91",
+                "Enterprise Value/Revenue": "18.17",
+                "Enterprise Value/EBITDA": "90.19"
+            }
+        },
+        "Other Data": {
+            "Beta (5Y Monthly)": "1.63",
+            "52-Week Change 3": "107.48%",
+            "S&P500 52-Week Change 3": "21.50%",
+            "52 Week High 3": "184.92",
+            "52 Week Low 3": "75.92",
+            "50-Day Moving Average 3": "149.61",
+            "200-Day Moving Average 3": "118.93",
+            "Profit Margin": "3.77%",
+            "Operating Margin (ttm)": "5.54%",
+            "Return on Assets (ttm)": "0.37%",
+            "Return on Equity (ttm)": "1.54%"
+        }
+    },
+    "GOOGL": {
+        "Quarterly Data": {
+            "Current": {
+                "Market Cap": "1.86T",
+                "Enterprise Value": "1.78T",
+                "Trailing P/E": "25.69",
+                "Forward P/E": "22.17",
+                "PEG Ratio (5yr expected)": "1.44",
+                "Price/Sales": "6.17",
+                "Price/Book": "6.54",
+                "Enterprise Value/Revenue": "5.78",
+                "Enterprise Value/EBITDA": "18.14"
+            },
+            "12/31/2023": {
+                "Market Cap": "1.76T",
+                "Enterprise Value": "1.66T",
+                "Trailing P/E": "26.76",
+                "Forward P/E": "20.96",
+                "PEG Ratio (5yr expected)": "1.32",
+                "Price/Sales": "6.02",
+                "Price/Book": "6.37",
+                "Enterprise Value/Revenue": "19.29",
+                "Enterprise Value/EBITDA": "63.91"
+            },
+            "9/30/2023": {
+                "Market Cap": "1.66T",
+                "Enterprise Value": "1.57T",
+                "Trailing P/E": "27.67",
+                "Forward P/E": "19.57",
+                "PEG Ratio (5yr expected)": "1.24",
+                "Price/Sales": "5.83",
+                "Price/Book": "6.14",
+                "Enterprise Value/Revenue": "20.43",
+                "Enterprise Value/EBITDA": "62.38"
+            },
+            "6/30/2023": {
+                "Market Cap": "1.52T",
+                "Enterprise Value": "1.43T",
+                "Trailing P/E": "26.60",
+                "Forward P/E": "22.32",
+                "PEG Ratio (5yr expected)": "1.48",
+                "Price/Sales": "5.48",
+                "Price/Book": "5.79",
+                "Enterprise Value/Revenue": "19.21",
+                "Enterprise Value/EBITDA": "56.55"
+            },
+            "3/31/2023": {
+                "Market Cap": "1.32T",
+                "Enterprise Value": "1.24T",
+                "Trailing P/E": "22.75",
+                "Forward P/E": "19.19",
+                "PEG Ratio (5yr expected)": "1.26",
+                "Price/Sales": "4.83",
+                "Price/Book": "5.15",
+                "Enterprise Value/Revenue": "17.73",
+                "Enterprise Value/EBITDA": "57.62"
+            },
+            "12/31/2022": {
+                "Market Cap": "1.15T",
+                "Enterprise Value": "1.06T",
+                "Trailing P/E": "17.54",
+                "Forward P/E": "16.50",
+                "PEG Ratio (5yr expected)": "1.24",
+                "Price/Sales": "4.15",
+                "Price/Book": "4.47",
+                "Enterprise Value/Revenue": "13.91",
+                "Enterprise Value/EBITDA": "55.71"
+            }
+        },
+        "Other Data": {
+            "Revenue  (ttm)": "307.39B",
+            "Revenue Per Share  (ttm)": "24.34",
+            "Quarterly Revenue Growth  (yoy)": "13.50%",
+            "Gross Profit  (ttm)": "--",
+            "EBITDA": "100.17B",
+            "Net Income Avi to Common  (ttm)": "73.8B",
+            "Diluted EPS  (ttm)": "5.80",
+            "Quarterly Earnings Growth  (yoy)": "51.80%",
+            "Total Cash  (mrq)": "110.92B",
+            "Total Cash Per Share  (mrq)": "8.92",
+            "Total Debt  (mrq)": "29.87B",
+            "Total Debt/Equity  (mrq)": "10.54%",
+            "Current Ratio  (mrq)": "2.10",
+            "Book Value Per Share  (mrq)": "22.74"
+        }
+    },
+    "GOOG": {
+        "Quarterly Data": {
+            "Current": {
+                "Market Cap": "1.86T",
+                "Enterprise Value": "1.78T",
+                "Trailing P/E": "25.90",
+                "Forward P/E": "22.32",
+                "PEG Ratio (5yr expected)": "1.45",
+                "Price/Sales": "6.22",
+                "Price/Book": "6.59",
+                "Enterprise Value/Revenue": "5.78",
+                "Enterprise Value/EBITDA": "18.14"
+            },
+            "12/31/2023": {
+                "Market Cap": "1.76T",
+                "Enterprise Value": "1.66T",
+                "Trailing P/E": "27.00",
+                "Forward P/E": "21.14",
+                "PEG Ratio (5yr expected)": "1.33",
+                "Price/Sales": "6.07",
+                "Price/Book": "6.43",
+                "Enterprise Value/Revenue": "19.29",
+                "Enterprise Value/EBITDA": "63.91"
+            },
+            "9/30/2023": {
+                "Market Cap": "1.66T",
+                "Enterprise Value": "1.57T",
+                "Trailing P/E": "27.88",
+                "Forward P/E": "19.72",
+                "PEG Ratio (5yr expected)": "1.25",
+                "Price/Sales": "5.88",
+                "Price/Book": "6.19",
+                "Enterprise Value/Revenue": "20.43",
+                "Enterprise Value/EBITDA": "62.38"
+            },
+            "6/30/2023": {
+                "Market Cap": "1.52T",
+                "Enterprise Value": "1.43T",
+                "Trailing P/E": "26.88",
+                "Forward P/E": "22.52",
+                "PEG Ratio (5yr expected)": "1.50",
+                "Price/Sales": "5.54",
+                "Price/Book": "5.86",
+                "Enterprise Value/Revenue": "19.21",
+                "Enterprise Value/EBITDA": "56.55"
+            },
+            "3/31/2023": {
+                "Market Cap": "1.32T",
+                "Enterprise Value": "1.24T",
+                "Trailing P/E": "22.81",
+                "Forward P/E": "19.27",
+                "PEG Ratio (5yr expected)": "1.26",
+                "Price/Sales": "4.84",
+                "Price/Book": "5.17",
+                "Enterprise Value/Revenue": "17.73",
+                "Enterprise Value/EBITDA": "57.62"
+            },
+            "12/31/2022": {
+                "Market Cap": "1.15T",
+                "Enterprise Value": "1.06T",
+                "Trailing P/E": "17.64",
+                "Forward P/E": "16.61",
+                "PEG Ratio (5yr expected)": "1.25",
+                "Price/Sales": "4.18",
+                "Price/Book": "4.50",
+                "Enterprise Value/Revenue": "13.91",
+                "Enterprise Value/EBITDA": "55.71"
+            }
+        },
+        "Other Data": {
+            "Revenue  (ttm)": "307.39B",
+            "Revenue Per Share  (ttm)": "24.34",
+            "Quarterly Revenue Growth  (yoy)": "13.50%",
+            "Gross Profit  (ttm)": "--",
+            "EBITDA": "100.17B",
+            "Net Income Avi to Common  (ttm)": "73.8B",
+            "Diluted EPS  (ttm)": "5.80",
+            "Quarterly Earnings Growth  (yoy)": "51.80%",
+            "Total Cash  (mrq)": "110.92B",
+            "Total Cash Per Share  (mrq)": "8.92",
+            "Total Debt  (mrq)": "29.87B",
+            "Total Debt/Equity  (mrq)": "10.54%",
+            "Current Ratio  (mrq)": "2.10",
+            "Book Value Per Share  (mrq)": "22.74"
+        }
+    }
+}
