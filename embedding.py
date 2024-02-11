@@ -41,14 +41,14 @@ def indicies_of_nearest_neighbors_from_distances(distances):
     return np.argsort(distances)
 
 # define a function that match the index of the nearest neighbor with the original string
-# input: target - string, allString - list of strings
+# input: distance - np.ndarray, allString - list of strings
 # output: list of strings
 def nearest_neighbors(distance, allString):
     nearNeighbor = []
-    # select the smallest 5 distances
+    # select the smallest 5 distance
+    distance = distance[0:5]
     for i in distance:
-        if i < 5:
-            nearNeighbor.append(allString[i])
+        nearNeighbor.append(allString[i])
     return nearNeighbor
 
 
@@ -62,14 +62,15 @@ def main(target, allString):
 
     index =  indicies_of_nearest_neighbors_from_distances(distances)
 
+
     return [target] + nearest_neighbors(index, allString)
 
 
 #################### TESTING ####################
 allString = ["testing", "another", "maybe", "this", "a lot", "much", "very", "so", "many", "more"]
-target = "much"
+target = "love"
 
 print(main(target, allString))
 
-# [5 4 9 6 8 3 2 1 7 0]
+
 
