@@ -56,5 +56,5 @@ def conversation(model, systemPersona, userMessage):
                                                           {"role": "user", "content": userMessage}])
     return completion.choices[0].message.content
 
-print(conversation("gpt-4-0613", systemPersona, userMessage))
+# print(conversation("gpt-4-0613", systemPersona, userMessage))
 # print(userMessage)
