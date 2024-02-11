@@ -6,7 +6,7 @@ The intersection of media news and stock price has long been studied. https://ww
 Yet, stock price is not the only indicator that look for when engaging with the stock market.
 The intricacy of the stock market, coupled with the necessity for high financial literacy and extensive experience, often deters individuals from participating and limits small to mid-sized companies in managing complex portfolios with constrained resources.
 
-AlphaPulse is an innovative AI-driven framework designed to transform unstructured financial data into actionable investment insights. By leveraging the power of LLM, AlphaPulse offers an in-context-learning approach to stock performance analysis, providing users with sophisticated stock performance outlook backed by detailed explanations.
+AlphaPulse is an innovative AI-driven framework designed to transform unstructured financial data into actionable investment insights. By leveraging the power of LLM, AlphaPulse offers an in-context-learning approach to stock performance analysis, providing users with a sophisticated stock performance outlook backed by detailed explanations.
 
 ## Methodology
 
@@ -42,6 +42,8 @@ AlphaPulse's user interface delivers predictions in three distinct timeframes:
 - **Long-Term Prediction:** Projects the long-term trend of the stock, offering a broader perspective on its bullish or bearish potential (1-5 years).
 
 These predictions are generated based on a comprehensive analysis of current market dynamics, financial news, company fundamentals, and macroeconomic factors, ensuring users receive well-informed recommendations for their investment strategies.
+![Output Page 1](Data/output1.png)
+![Output Page 2](Data/output2.png)
 
 Disclaimer: AlphaPulse's AI-driven stock performance outlooks and recommendations are intended for informational purposes only and should not be considered financial advice, with users responsible for their own investment decisions and understanding that past performance is not indicative of future results.
 
