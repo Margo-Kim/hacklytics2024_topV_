@@ -1,4 +1,5 @@
 #  AlphaPulse
+![Logo](updatedLogo.png)
 ## Hacklytics 2024 Finance & Gen AI Track
 ## Short, Mid, Long Terms Stock Performance Prediction System
 The intersection of media news and stock price has long been studied. https://www.tcd.ie/Economics/assets/pdf/SER/2019/11stock_prices.pdf.
