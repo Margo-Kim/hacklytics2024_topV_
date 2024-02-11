@@ -42,6 +42,8 @@ AlphaPulse's user interface delivers predictions in three distinct timeframes:
 
 These predictions are generated based on a comprehensive analysis of current market dynamics, financial news, company fundamentals, and macroeconomic factors, ensuring users receive well-informed recommendations for their investment strategies.
 
+Disclaimer: AlphaPulse's AI-driven stock performance outlooks and recommendations are intended for informational purposes only and should not be considered financial advice, with users responsible for their own investment decisions and understanding that past performance is not indicative of future results.
+
 
 ## Getting Started
 
